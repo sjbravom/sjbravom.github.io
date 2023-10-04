@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sai Bravo Melgarejo"
+title                    : "Sai Bravo-Melgarejo"
 title_separator          : "-"
-name                     : &name "Sai Bravo Melgarejo"
+name                     : &name "Sai Bravo-Melgarejo"
 description              : &description "Postdoctoral Researcher"
 url                      : https://saibravom.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sjbravom/saibravom.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,12 +83,12 @@ author:
   name             : "Sai Bravo Melgarejo"
   avatar           : "profile.png"
   bio              : "Hi and welcome to my website!"
-  location         : "Toulouse, France"
-  employer         :
+  location         : "Toulouse-France"
+  employer         : "ENAC"
   pubmed           : 
   googlescholar    : 
   email            : "sai.bravo-melgarejo@enac.fr"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
