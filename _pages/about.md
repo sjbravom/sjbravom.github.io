@@ -7,11 +7,6 @@ redirect_from:
   - /about.html
 excerpt_separator: <!--more-->
 
----
-
-**Hi and welcome to my website!**
-
-------
 
 I am a postdoctoral fellow at [ENAC](https://www.enac.fr/en) since November 2021. 
 
