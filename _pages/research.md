@@ -73,7 +73,7 @@ _Presentations: 10th FAERE Conference (Montpellier, 2023), 50th EARIE Conference
 #### The determinants of urban multi-modal demand. 
 with Imane Hoummirat and [Isabelle Laplace](https://cv.hal.science/isabelle-laplace).
 
-\vspace{2mm}
+
 
 ####  Analysis of integrated assessment models.
 with [Alexandre Gondran](http://alexandre.gondran.free.fr), [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti) and Antoine Ronsan. 
