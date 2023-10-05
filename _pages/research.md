@@ -82,5 +82,5 @@ with [Alexandre Gondran](http://alexandre.gondran.free.fr), [Estelle Malavolti](
 
 
 #### [Stratégie française sur l’énergie et le climate.](https://archivephase1.concertation-strategie-energie-climat.gouv.fr/cahier-dacteur-ndeg36-unite-recherche-mixte-tree-transitions-energetiques-environnementales) 
-with Xavier Arnauld-de-Sartre, Pauline Lacassy, Florence Lachet-Touya, Jacques Le-Cacheux and Jérémy Pélé, Cahier d’acteurs n°36 UMR TREE,2022. 
+with Xavier Arnauld-de-Sartre, Pauline Lacassy, Florence Lachet-Touya, Jacques Le-Cacheux and Jérémy Pélé, Cahier d’acteurs n°36 UMR TREE, 2022. 
 
