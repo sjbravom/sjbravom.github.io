@@ -56,7 +56,7 @@ The Californian Clean Vehicle Rebate Project offers rebates for plug-in-hybrid e
 
 _Presentations: ADRES  Doctoral Conference (Paris, 2023), International Conference on Mobility Challenges (Paris, 2021), TREE Seminar (Pau, 2021)._
 
-##### Do airlines adopt sustainable aviation fuels under modal competition?
+#### Do airlines adopt sustainable aviation fuels under modal competition?
 with [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti), October 2023. (Draft available upon request)
       
 <details>
