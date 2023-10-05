@@ -4,6 +4,8 @@ permalink: /research/
 author_profile: true
 ---
 
+---
+
 # Publications
 
 ## [Adopting and diffusing hydrogen technology in air transport: An evolutionary game theory approach.](https://www.sciencedirect.com/science/article/pii/S0140988323003626#d1e8012)
