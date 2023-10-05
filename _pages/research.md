@@ -4,9 +4,9 @@ permalink: /research/
 author_profile: true
 ---
 
-***Publications**
+*Publications*
 
-### [Adopting and diffusing hydrogen technology in air transport: An evolutionary game theory approach.](https://www.sciencedirect.com/science/article/pii/S0140988323003626#d1e8012)
+** [Adopting and diffusing hydrogen technology in air transport: An evolutionary game theory approach.] **(https://www.sciencedirect.com/science/article/pii/S0140988323003626#d1e8012)
 with Shangrong. Chen, [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti), and Romain Mongeau. Energy Economics, vol. 125, n. 106864, September 2023.
 
 <details>
