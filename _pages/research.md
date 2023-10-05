@@ -45,7 +45,7 @@ A label for green gases, such as green hydrogen (H2) and bio-methane, could allo
 
 _Presentations: 13th Toulouse Conference on The Economics of Energy and Climate (Toulouse, 2022), 48th EARIE Conference (Bergen, 2021), 37èmes Journées de Microéconomie Appliquée (Annecy, 2021) ADRES  Doctoral Conference (Strasbourg, 2021), FAEE Student Workshop (Paris, 2020), CATT Seminar (Pau, 2020)._
 
-### Greening the Public Fleet: Evidence from California’s Clean Vehicle Rebate Program.
+#### Greening the Public Fleet: Evidence from California’s Clean Vehicle Rebate Program.
 October 2023. (Draft available upon request)
       
 <details>
