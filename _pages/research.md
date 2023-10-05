@@ -4,9 +4,9 @@ permalink: /research/
 author_profile: true
 ---
 
-## Publications
+# Publications
 
-#### [Adopting and diffusing hydrogen technology in air transport: An evolutionary game theory approach.](https://www.sciencedirect.com/science/article/pii/S0140988323003626#d1e8012)
+### [Adopting and diffusing hydrogen technology in air transport: An evolutionary game theory approach.](https://www.sciencedirect.com/science/article/pii/S0140988323003626#d1e8012)
 with Shangrong. Chen, [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti), and Romain Mongeau. Energy Economics, vol. 125, n. 106864, September 2023.
 
 <details>
@@ -19,9 +19,9 @@ _Presentations: 25th ATRS World Conference (Antwerp, 2022), 27th Annual EAERE Co
 
 ---
 
-## Working Papers
+# Working Papers
 
-#### [Prosumers: Grid Storage vs Small Fuel-Cell.](https://hal.science/hal-04119625v2/document)
+### [Prosumers: Grid Storage vs Small Fuel-Cell.](https://hal.science/hal-04119625v2/document)
 with [Carole Haritchabablet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). TREE Working Paper. R&R (major) Energy Economics, June 2023.
 
 <details>
@@ -32,7 +32,8 @@ The number of prosumers -consumers equipped with decentralized production- is ex
 
 _Presentations: 49th EARIE Conference (Vienna,2022), 38èmes Journées de Microéconomie Appliquée (Rennes, 2022)._
 
-#### Certification of low-carbon hydrogen in the transport market. 
+
+### Certification of low-carbon hydrogen in the transport market. 
 with [Carole Haritchabablet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). October 2023. (Draft available upon request)
 
 [Best Student Paper in Energy Economics](https://www.faee.fr/fr/51-prix-de-l-aee.html#/awards/2020), French Association for Energy Economics, 2020.
@@ -45,7 +46,8 @@ A label for green gases, such as green hydrogen (H2) and bio-methane, could allo
 
 _Presentations: 13th Toulouse Conference on The Economics of Energy and Climate (Toulouse, 2022), 48th EARIE Conference (Bergen, 2021), 37èmes Journées de Microéconomie Appliquée (Annecy, 2021) ADRES  Doctoral Conference (Strasbourg, 2021), FAEE Student Workshop (Paris, 2020), CATT Seminar (Pau, 2020)._
 
-#### Greening the Public Fleet: Evidence from California’s Clean Vehicle Rebate Program.
+
+### Greening the Public Fleet: Evidence from California’s Clean Vehicle Rebate Program.
 October 2023. (Draft available upon request)
       
 <details>
@@ -56,7 +58,8 @@ The Californian Clean Vehicle Rebate Project offers rebates for plug-in-hybrid e
 
 _Presentations: ADRES  Doctoral Conference (Paris, 2023), International Conference on Mobility Challenges (Paris, 2021), TREE Seminar (Pau, 2021)._
 
-#### Do airlines adopt sustainable aviation fuels under modal competition?
+
+### Do airlines adopt sustainable aviation fuels under modal competition?
 with [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti), October 2023. (Draft available upon request)
       
 <details>
@@ -68,19 +71,19 @@ Reducing the level of carbon dioxide (CO2) emissions in air transport calls for 
 _Presentations: 10th FAERE Conference (Montpellier, 2023), 50th EARIE Conference (Rome, 2023), 4th SOAR Symposia (Toulouse, 2023), PPH" Seminar (Montpellier, 2023)._
 
 
-## Work in Progress
+# Work in Progress
 
-#### The determinants of urban multi-modal demand. 
+### The determinants of urban multi-modal demand. 
 with Imane Hoummirat and [Isabelle Laplace](https://cv.hal.science/isabelle-laplace).
 
 
 
-####  Analysis of integrated assessment models.
+###  Analysis of integrated assessment models.
 with [Alexandre Gondran](http://alexandre.gondran.free.fr), [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti) and Antoine Ronsan. 
 
-## Policy Work
+# Policy Work
 
 
-#### [Stratégie française sur l’énergie et le climate.](https://archivephase1.concertation-strategie-energie-climat.gouv.fr/cahier-dacteur-ndeg36-unite-recherche-mixte-tree-transitions-energetiques-environnementales) 
+### [Stratégie française sur l’énergie et le climate.](https://archivephase1.concertation-strategie-energie-climat.gouv.fr/cahier-dacteur-ndeg36-unite-recherche-mixte-tree-transitions-energetiques-environnementales) 
 with Xavier Arnauld-de-Sartre, Pauline Lacassy, Florence Lachet-Touya, Jacques Le-Cacheux and Jérémy Pélé, Cahier d’acteurs n°36 UMR TREE, 2022. 
 
