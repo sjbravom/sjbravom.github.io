@@ -18,10 +18,13 @@ gem "minimal-mistakes-jekyll"
 # If you have any plugins, put them here!
 gem "github-pages", group: :jekyll_plugins
 
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem "jekyll-redirect-from"
+
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
-
-bundle update
 
 # gem "jekyll"
 
