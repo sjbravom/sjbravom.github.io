@@ -77,3 +77,10 @@ with Imane Hoummirat and [Isabelle Laplace](https://cv.hal.science/isabelle-lapl
 
 ####  Analysis of integrated assessment models.
 with [Alexandre Gondran](http://alexandre.gondran.free.fr), [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti) and Antoine Ronsan. 
+
+## Policy Work
+
+
+#### [Stratégie française sur l’énergie et le climate.](https://archivephase1.concertation-strategie-energie-climat.gouv.fr/cahier-dacteur-ndeg36-unite-recherche-mixte-tree-transitions-energetiques-environnementales) 
+with Xavier Arnauld-de-Sartre, Pauline Lacassy, Florence Lachet-Touya, Jacques Le-Cacheux and Jérémy Pélé, Cahier d’acteurs n°36 UMR TREE,2022. 
+
