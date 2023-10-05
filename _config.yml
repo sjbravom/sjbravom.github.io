@@ -313,4 +313,5 @@ compress_html:
 
 # Build settings
 theme: minima
+minimal_mistakes_skin: "air"
 
