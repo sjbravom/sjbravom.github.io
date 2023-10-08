@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : 
+twitter: 
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -89,7 +89,7 @@ author:
   googlescholar    : 
   email            : 
   researchgate     :  
-  uri              :
+  uri              :"https://sjbravom.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "saijael06"
   vine             :
   weibo            :
   xing             :
