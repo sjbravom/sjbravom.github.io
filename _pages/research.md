@@ -33,8 +33,10 @@ The number of prosumers -consumers equipped with decentralized production- is ex
 _Presentations: 49th EARIE Conference (Vienna,2022), 38èmes Journées de Microéconomie Appliquée (Rennes, 2022)._
 
 
-## Certification of low-carbon hydrogen in the transport market. 
+## [A model of vertical restraints and labeling: the case of green hydrogen.](https://sjbravom.github.io/papers/CertificationlowcarbonH2_v0__Copy_.pdf)
 with [Carole Haritchabablet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). October 2023. (Draft available upon request)
+
+-Previously circulated as: "Certification of low-carbon hydrogen in the transport market".
 
 [Best Student Paper in Energy Economics](https://www.faee.fr/fr/51-prix-de-l-aee.html#/awards/2020), French Association for Energy Economics, 2020.
 
@@ -46,7 +48,7 @@ A label for green gases, such as green hydrogen (H2) and bio-methane, could allo
 _Presentations: 13th Toulouse Conference on The Economics of Energy and Climate (Toulouse, 2022), 48th EARIE Conference (Bergen, 2021), 37èmes Journées de Microéconomie Appliquée (Annecy, 2021) ADRES  Doctoral Conference (Strasbourg, 2021), FAEE Student Workshop (Paris, 2020), CATT Seminar (Pau, 2020)._
 
 
-## Do airlines adopt sustainable aviation fuels under modal competition?
+## [Do airlines adopt sustainable aviation fuels under modal competition?](https://sjbravom.github.io/papers/DraftTariffSAF.pdf)
 with [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti), October 2023. (Draft available upon request)
       
 <details>
