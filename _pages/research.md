@@ -22,19 +22,19 @@ _Presentations: 25th ATRS World Conference (Antwerp, 2022), 27th Annual EAERE Co
 
 # Working Papers
 
-## [Prosumers: Grid Storage vs Small Fuel-Cell.](https://hal.science/hal-04119625v2/document)
+## [Prosumers: Grid Storage vs Decentralized Storage.](https://hal.science/hal-04119625v2/document)
 with [Carole Haritchabablet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). TREE Working Paper. R&R (major) Energy Economics, June 2023.
 
 <details>
 <summary>Abstract: </summary>
-The number of prosumers -consumers equipped with decentralized production- is expected to increase following the revised Renewable Energy Directive (2018/2001) and the rising energy prices. The economic literature suggests there is room for demand-side storage that can take two forms: decentralized or centralized. The schemes promoting investments in solar capacity physically allow for only one type of demand-side storage. One may wonder about the conditions under which consumers invest in different technologies. We build a stylized microeconomic model of the energy market and perform a numerical evaluation, using publicly available data from France, to compare two regulations—price and quantity—from our representative consumer’s and the Distributed System Operator’s points of view. The two energy regulations lead to three types of profiles: consumers, prosumers, and storers. These profiles are in line with previous studies focusing on price regulation. With quantity regulation, a grid tariff such that consumers invest in storage depends on endogenous parameters. The results suggest that with the current price regulation in France, only a smaller feed-in tariff would encourage investments in decentralized hydrogen-based storage. A grid tariff such that consumers inject energy into the grid would not reflect the cost of centralized hydrogen-based storage. However, a quantity regulation would be less costly to support.
+The number of prosumers—consumers equipped with decentralized production—should rise following the 2023 Renewable Energy Directive and increasing energy prices. The economic literature suggests a potential for demand-side storage. In this study, we present a stylized microeconomic model to analyze storage investment decisions by a representative consumer with either centralized (quantity regulation) or decentralized (price regulation) storage. Prosumers may become storers only when the cost of producing energy is sufficiently low, and this condition is more stringent under centralized storage. Additionally, there may be more storage under quantity regulation. We calibrate our model using data from France, considering two storage technologies: batteries and fuel cells. Consumers' preferred regulatory regime depends on the technology used for individual storage, with a preference for quantity regulation when utilizing a fuel cell and vice versa for batteries. The Distribution System Operator (DSO) is better off under quantity regulation, except in the case of centralized hydrogen storage. Energy storage enables the DSO to avoid operating at a loss under price regulation, and welfare is higher with energy storage under both regulations.
 </details>
 
 _Presentations: 49th EARIE Conference (Vienna,2022), 38èmes Journées de Microéconomie Appliquée (Rennes, 2022)._
 
 
 ## [A model of vertical restraints and labeling: the case of green hydrogen.](https://sjbravom.github.io/papers/CertificationlowcarbonH2_v0__Copy_.pdf)
-with [Carole Haritchabablet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). October 2023. (Draft available upon request)
+with [Carole Haritchabablet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). October 2023. 
 
 -Previously circulated as: "Certification of low-carbon hydrogen in the transport market".
 
@@ -49,14 +49,14 @@ _Presentations: 13th Toulouse Conference on The Economics of Energy and Climate 
 
 
 ## [Do airlines adopt sustainable aviation fuels under modal competition?](https://sjbravom.github.io/papers/DraftTariffSAF.pdf)
-with [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti), October 2023. (Draft available upon request)
+with [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti), October 2023. Submitted.
       
 <details>
 <summary>Abstract: </summary>
 Reducing the level of carbon dioxide (CO2) emissions in air transport calls for policies supporting less polluting fuels. The International Civil Aviation Organization and the European Union have launched policies to support the adoption of sustainable aviation fuels (SAFs). Besides this, Schiphol, Heathrow, and airports from the Swedavia AB group are considering implementing a system of differentiated airport charges based on environmental performance. However, the use of discriminatory charges is forbidden under Article 15 of the Chicago Convention. Our paper studies the impact of authorizing differentiated charges in the context of intermodal competition. We find that with uniform tariffs, airlines have no incentive to use SAFs. Instead, if a regulator authorizes discriminatory aeronautical charges, airlines may switch to a SAF and kerosene blend. When the costs associated with using a blend are smaller than passengers’ disutility when not traveling with their preferred transportation mode, discriminatory charges increase air transportation's market share. Thus, using a blend may prevent losing passengers to the rail in the context of passengers' increasing environmental awareness.
 </details>
 
-_Presentations: 10th FAERE Conference (Montpellier, 2023), 50th EARIE Conference (Rome, 2023), 4th SOAR Symposia (Toulouse, 2023), PPH" Seminar (Montpellier, 2023)._
+_Presentations: 10th FAERE Conference (Montpellier, 2023), 50th EARIE Conference (Rome, 2023), 4th SOAR Symposia (Toulouse, 2023), PPH2 Seminar (Montpellier, 2023)._
 
 ---
 
@@ -73,13 +73,27 @@ The Californian Clean Vehicle Rebate Project offers rebates for plug-in-hybrid e
 _Presentations: ADRES  Doctoral Conference (Paris, 2023), International Conference on Mobility Challenges (Paris, 2021), TREE Seminar (Pau, 2021)._
 
 
-## The determinants of urban multi-modal demand. 
-with Imane Hoummirat and [Isabelle Laplace](https://cv.hal.science/isabelle-laplace).
+## What determinants for multimodality? Investigating preferences for multimodality in Toulouse. 
+with Imane Hoummirat and [Isabelle Laplace](https://cv.hal.science/isabelle-laplace). (Draft available upon request)
 _Presentations: M2S (Toulouse, 2023)._
 
+<details>
+<summary>Abstract: </summary>
+Multimodality appears as a solution to reduce congestion and air pollution in the context of urban areas with growing populations. Mobility as a Service tools can encourage further the adoption of multimodal transportation Docherty et al., 2018). Nevertheless, the effectiveness of MaaS tools in promoting multimodal trips depends on many factors such as socio-demographic and economic characteristics, psychological factors, and trip circumstances. We propose an econometric investigation of these factors using the last wave of the "Enquête Ménages Déplacements" from 2013 in Toulouse. Our analysis highlights the importance of geographical location in shaping transportation choices with important differences between residents and trips between and within Toulouse and its suburbs. Psychological factors, such as environmental concern, also positively influence multimodal trips, unlike habits.
+</details>
 
-##  Analysis of integrated assessment models.
-with [Alexandre Gondran](http://alexandre.gondran.free.fr), [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti) and Antoine Ronsan. 
+
+##  What is the role and impact of technical progress in the DICE model?
+with [Alexandre Gondran](http://alexandre.gondran.free.fr), [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti) and Antoine Ronsain. (Draft available upon request)
+
+<details>
+<summary>Abstract: </summary>
+According to Meadows et al. (1972), technical progress only delays the overstepping of planetary limits and the socioeconomic collapse. In contrast, the DICE model asserts that technical progress can prevent limits (global warming in that case) from being reached. Our study aims to gain a better understanding of the role of technical progress in the DICE model. We show first that technical progress is the main factor of economic growth by stimulating economic productivity. We also find that technical progress can stop climate change if it is stimulated by a carbon tax levied on production. However, if backstop technologies, a proxy for technical progress, are not sufficiently effective, economic output tends to decline or even collapse, and temperatures soar.  
+</details>
+
+
+##  Coopetition: What is the optimal air-rail transportation mix?
+with Shangrong. Chen and [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti).
 
 ---
 
