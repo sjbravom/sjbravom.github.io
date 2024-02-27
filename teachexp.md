@@ -3,6 +3,12 @@ title: "Teaching"
 permalink: /teachexp/
 ---
 
+### Toulouse School of Economics
+
+Air Transport Economics, Teacher, Toulouse School of Economics, Graduate (M2 Economics of Markets and Organizations) Spring 2024.
+
+Macroeconomics, Teaching Assistant, Toulouse School of Economics, Undergraduate (L2) Fall 2017.
+
 ### ENAC
 
 Industrial Organization, Teacher, Graduate, Fall 2022, Fall 2023.
@@ -21,6 +27,3 @@ Industrial Organization, Teaching Assistant, Undergraduate (L3), Spring 2020.
 Microeconomics, Teaching Assistant, Undergraduate (L2), Fall 2019, Fall 2020.
 
 
-### Toulouse School of Economics
-
-Macroeconomics, Teaching Assistant, Toulouse School of Economics, Undergraduate (L2) Fall 2017.
