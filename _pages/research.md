@@ -75,12 +75,13 @@ _Presentations: ADRES  Doctoral Conference (Paris, 2023), International Conferen
 
 ## What determinants for multimodality? Investigating preferences for multimodality in Toulouse. 
 with Imane Hoummirat and [Isabelle Laplace](https://cv.hal.science/isabelle-laplace). (Draft available upon request)
-_Presentations: M2S (Toulouse, 2023)._
 
 <details>
 <summary>Abstract: </summary>
 Multimodality appears as a solution to reduce congestion and air pollution in the context of urban areas with growing populations. Mobility as a Service tools can encourage further the adoption of multimodal transportation Docherty et al., 2018). Nevertheless, the effectiveness of MaaS tools in promoting multimodal trips depends on many factors such as socio-demographic and economic characteristics, psychological factors, and trip circumstances. We propose an econometric investigation of these factors using the last wave of the "Enquête Ménages Déplacements" from 2013 in Toulouse. Our analysis highlights the importance of geographical location in shaping transportation choices with important differences between residents and trips between and within Toulouse and its suburbs. Psychological factors, such as environmental concern, also positively influence multimodal trips, unlike habits.
 </details>
+
+_Presentations: M2S (Toulouse, 2023)._
 
 
 ##  What is the role and impact of technical progress in the DICE model?
