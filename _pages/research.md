@@ -9,7 +9,7 @@ author_profile: true
 # Publications
 
 ## [Adopting and diffusing hydrogen technology in air transport: An evolutionary game theory approach.](https://www.sciencedirect.com/science/article/pii/S0140988323003626#d1e8012)
-with Shangrong. Chen, [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti), and Romain Mongeau. Energy Economics, vol. 125, n. 106864, September 2023.
+with Shangrong Chen, [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti), and Romain Mongeau. Energy Economics, vol. 125, n. 106864, September 2023.
 
 <details>
 <summary>Abstract: </summary>
@@ -22,7 +22,7 @@ _Presentations: 25th ATRS World Conference (Antwerp, 2022), 27th Annual EAERE Co
 
 # Working Papers
 
-## [Prosumers: Grid Storage vs Decentralized Storage.](https://hal.science/hal-04119625v2/document)
+## [Prosumers: Grid Storage vs Decentralized Storage.](https://sjbravom.github.io/papers/prosumers.pdf)
 with [Carole Haritchabablet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). TREE Working Paper. R&R (major) Energy Economics, June 2023.
 
 <details>
