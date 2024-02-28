@@ -94,7 +94,7 @@ According to Meadows et al. (1972), technical progress only delays the overstepp
 
 
 ##  Coopetition: What is the optimal air-rail transportation mix?
-with Shangrong. Chen and [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti).
+with Shangrong Chen and [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti).
 
 ---
 
