@@ -103,3 +103,25 @@ with Shangrong Chen and [Estelle Malavolti](https://www.tse-fr.eu/people/estelle
 ## [Stratégie française sur l’énergie et le climate.](https://archivephase1.concertation-strategie-energie-climat.gouv.fr/cahier-dacteur-ndeg36-unite-recherche-mixte-tree-transitions-energetiques-environnementales) 
 with Xavier Arnauld-de-Sartre, Pauline Lacassy, Florence Lachet-Touya, Jacques Le-Cacheux and Jérémy Pélé, Cahier d’acteurs n°36 UMR TREE, 2022. 
 
+
+## [Hydrogène « vert » : fantasmes et réalités.](https://www.bsi-economics.org/1390-hydrogene-vert-fantasmes-et-realites-note) 
+2022. BSI Economics.
+
+
+## [Les projets européens d'interconnexions électriques.](https://www.bsi-economics.org/1293-les-projets-europeens-d%E2%80%99interconnexions-electriques-note) 
+2021. BSI Economics.
+
+
+## [Prosommateurs : une conséquence directe du déploiement des réseaux intelligents dans le marché de l’électricité.](https://www.bsi-economics.org/1185-prosommateurs-une-consequence-directe-du-deploiement-des-reseaux-intelligents-dans-le-marche-de-l%E2%80%99electricite) 
+2021. BSI Economics.
+
+
+## [Défis des nouvelles technologies dans la décarbonisation du secteur des transports.](https://www.bsi-economics.org/1074-defi-nouvelles-tech-decarbonisation-secteur-transport) 
+2020. BSI Economics.
+
+
+## [Vers une alimentation “désin-carnée" : Enjeux environnementaux et de santé publique.](https://www.bsi-economics.org/1038-vers-alimentation-desincarnee-enjeux-environnementaux-sante-pubilque-sbmc) 
+2019. avec [Marine Coinon](https://sites.google.com/view/marine-coinon/home). BSI Economics.
+
+
+
