@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at [ENAC](https://www.enac.fr/en) since November 2021. 
+In September 2024 I joined as a researcher in economics the [Institute for Techno-Economics of Energy Systems](https://www.cea.fr/energies/i-tese/Pages/accueil.aspx) of the [French Alternative Energies and Atomic Energy Commission (CEA)](https://www.cea.fr/english) affiliated with [Paris Saclay University](https://www.pluginlabs-universiteparissaclay.fr/en/fiche/institute-for-techno-economics-of-energy-systems-i-tese/).
 
-I obtained a Ph.D. in Economics from the [University of Pau](https://tree.univ-pau.fr/fr/index.html) in association with the [Chair of the Economics of Gas](https://www.cerna.minesparis.psl.eu/Recherche/Chaire-Economie-europeenne-du-gaz-naturel/Presentation-and-publications/) in 2021.
+Before I was a postdoctoral fellow at [ENAC](https://www.enac.fr/en) between November 2021 and August 2024. 
 
-I hold a Master's degree in [Economics of Markets and Organizations](https://www.tse-fr.eu/master-emo-international-track) from the [Toulouse School of Economics](https://www.tse-fr.eu). 
+I obtained a Ph.D. in Economics from the [University of Pau](https://tree.univ-pau.fr/fr/index.html) in association with the [Chair of the Economics of Gas](https://www.cerna.minesparis.psl.eu/Recherche/Chaire-Economie-europeenne-du-gaz-naturel/Presentation-and-publications/) in 2021. I also hold a Master's degree in [Economics of Markets and Organizations](https://www.tse-fr.eu/master-emo-international-track) and a Bachelor's degree in [Economics](https://www.tse-fr.eu/bachelor-economics?lang=en) from the [Toulouse School of Economics](https://www.tse-fr.eu). 
 
-My research fields are Industrial Organization, Transportation, Energy and Environmental Economics.
+My research fields are Industrial Organization, Transportation, Energy, and Environmental Economics.
 
-You can reach me at [sai.bravo-melgarejo@enac.fr](sai.bravo-melgarejo@enac.fr)
+You can reach me at [sai.bravomelgarejo@cea.fr](sai.bravomelgarejo@cea.fr)
    <!--more--> 
