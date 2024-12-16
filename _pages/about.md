@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since September 2024, I have been a researcher in economics at [I-Tésé CEA Paris Saclay](https://www.cea.fr/energies/i-tese/Pages/accueil.aspx) part of [Paris Saclay University](https://www.pluginlabs-universiteparissaclay.fr/en/fiche/institute-for-techno-economics-of-energy-systems-i-tese/). I am also an associated researcher at the [TRAVEL Chairy](https://fondation.enac.fr/premier-comite-dorientation-pour-la-chaire-travel/).
+Since September 2024, I have been a researcher in economics at [I-Tésé CEA Paris Saclay](https://www.cea.fr/energies/i-tese/Pages/accueil.aspx) part of [Paris Saclay University](https://www.pluginlabs-universiteparissaclay.fr/en/fiche/institute-for-techno-economics-of-energy-systems-i-tese/). I am also an associated researcher at the [TRAVEL Chair](https://fondation.enac.fr/premier-comite-dorientation-pour-la-chaire-travel/).
 
 Before I was a postdoctoral fellow at [ENAC](https://www.enac.fr/en) between November 2021 and August 2024. 
 
