@@ -32,7 +32,7 @@ _Presentations: 49th EARIE Conference (Vienna,2022), 38èmes Journées de Micro�
 
 # Working Papers
 
-## [A model of vertical restraints and labeling: the case of green hydrogen.]
+## A model of vertical restraints and labeling: the case of green hydrogen.
 with [Carole Haritchabalet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). October 2023. (Draft available upon request)
 
 -Previously circulated as: "Certification of low-carbon hydrogen in the transport market".
@@ -47,7 +47,7 @@ A label for green gases, such as green hydrogen (H2) and bio-methane, could allo
 _Presentations: 13th Toulouse Conference on The Economics of Energy and Climate (Toulouse, 2022), 48th EARIE Conference (Bergen, 2021), 37èmes Journées de Microéconomie Appliquée (Annecy, 2021) ADRES  Doctoral Conference (Strasbourg, 2021), FAEE Student Workshop (Paris, 2020), CATT Seminar (Pau, 2020)._
 
 
-## [Do airlines adopt sustainable aviation fuels under modal competition?]
+## Do airlines adopt sustainable aviation fuels under modal competition?
 with [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti), Spetember 2024. Submitted. (Draft available upon request)
       
 <details>
@@ -72,7 +72,7 @@ The Californian Clean Vehicle Rebate Project offers rebates for plug-in-hybrid e
 _Presentations: ITEA Annual Conference (Leeds, 2024), ADRES  Doctoral Conference (Paris, 2023), International Conference on Mobility Challenges (Paris, 2021), TREE Seminar (Pau, 2021)._
 
 
-## What determinants for multimodality? Investigating preferences for multimodality in Toulouse. 
+## What is the role of psychological factors in urban modal choice? Evidence from Toulouse Metropolis.
 with Imane Hoummirat and [Isabelle Laplace](https://cv.hal.science/isabelle-laplace). 
 
 <details>
