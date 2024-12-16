@@ -18,23 +18,22 @@ This paper uses an evolutionary game theory approach to assess the diffusion of 
 
 _Presentations: 25th ATRS World Conference (Antwerp, 2022), 27th Annual EAERE Conference (Rimini, 2022), ITEA Annual Conference (Toulouse, 2022)._
 
----
-
-# Working Papers
-
-## [Prosumers: Grid Storage vs Decentralized Storage.](https://sjbravom.github.io/papers/prosumers.pdf)
-with [Carole Haritchabalet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). TREE Working Paper. R&R (major) Energy Economics, June 2023.
+## [Prosumers: Grid vs. individual storage.](https://doi.org/10.1016/j.eneco.2024.108095)
+with [Carole Haritchabalet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). Energy Economics, January 2025.
 
 <details>
 <summary>Abstract: </summary>
-The number of prosumers—consumers equipped with decentralized production—should rise following the 2023 Renewable Energy Directive and increasing energy prices. The economic literature suggests a potential for demand-side storage. In this study, we present a stylized microeconomic model to analyze storage investment decisions by a representative consumer with either centralized (quantity regulation) or decentralized (price regulation) storage. Prosumers may become storers only when the cost of producing energy is sufficiently low, and this condition is more stringent under centralized storage. Additionally, there may be more storage under quantity regulation. We calibrate our model using data from France, considering two storage technologies: batteries and fuel cells. Consumers' preferred regulatory regime depends on the technology used for individual storage, with a preference for quantity regulation when utilizing a fuel cell and vice versa for batteries. The Distribution System Operator (DSO) is better off under quantity regulation, except in the case of centralized hydrogen storage. Energy storage enables the DSO to avoid operating at a loss under price regulation, and welfare is higher with energy storage under both regulations.
+We present a stylized microeconomic model to analyze solar panels and storage investment decisions of a representative consumer under either grid (credit regulation) or individual (price regulation) storage. We identify the conditions under which prosumers become storers. We show that solar technology must be more competitive under credit than price regulation for consumers to invest in storage. We calibrate our model using French data from 2023 and 2030 and consider batteries and fuel-cells as potential individual storage technologies. France’s current price regulation incentivizes investment in solar capacity, but not in storage. Conversely, credit regulation would immediately encourage energy storage. Looking ahead to 2030, both regulatory frameworks would incentivize energy storage. The distribution system operator prefers credit regulation, provided the regulator allows full energy recovery. Overall, energy storage enhances welfare under both regulatory frameworks.
 </details>
 
 _Presentations: 49th EARIE Conference (Vienna,2022), 38èmes Journées de Microéconomie Appliquée (Rennes, 2022)._
 
+---
 
-## [A model of vertical restraints and labeling: the case of green hydrogen.](https://sjbravom.github.io/papers/CertificationlowcarbonH2_v0__Copy_.pdf)
-with [Carole Haritchabalet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). October 2023. 
+# Working Papers
+
+## [A model of vertical restraints and labeling: the case of green hydrogen.]
+with [Carole Haritchabalet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). October 2023. (Draft available upon request)
 
 -Previously circulated as: "Certification of low-carbon hydrogen in the transport market".
 
@@ -48,8 +47,8 @@ A label for green gases, such as green hydrogen (H2) and bio-methane, could allo
 _Presentations: 13th Toulouse Conference on The Economics of Energy and Climate (Toulouse, 2022), 48th EARIE Conference (Bergen, 2021), 37èmes Journées de Microéconomie Appliquée (Annecy, 2021) ADRES  Doctoral Conference (Strasbourg, 2021), FAEE Student Workshop (Paris, 2020), CATT Seminar (Pau, 2020)._
 
 
-## [Do airlines adopt sustainable aviation fuels under modal competition?](https://sjbravom.github.io/papers/DraftTariffSAF.pdf)
-with [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti), October 2023. Submitted.
+## [Do airlines adopt sustainable aviation fuels under modal competition?]
+with [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti), Spetember 2024. Submitted. (Draft available upon request)
       
 <details>
 <summary>Abstract: </summary>
@@ -63,7 +62,7 @@ _Presentations:  27th ATRS World Conference (Lisbon, 2024), 10th FAERE Conferenc
 # Work in Progress
 
 ## Greening the Public Fleet: Evidence from California’s Clean Vehicle Rebate Program.
-October 2023. (Draft available upon request)
+October 2023. 
       
 <details>
 <summary>Abstract: </summary>
@@ -74,7 +73,7 @@ _Presentations: ITEA Annual Conference (Leeds, 2024), ADRES  Doctoral Conference
 
 
 ## What determinants for multimodality? Investigating preferences for multimodality in Toulouse. 
-with Imane Hoummirat and [Isabelle Laplace](https://cv.hal.science/isabelle-laplace). (Draft available upon request)
+with Imane Hoummirat and [Isabelle Laplace](https://cv.hal.science/isabelle-laplace). 
 
 <details>
 <summary>Abstract: </summary>
@@ -83,14 +82,6 @@ Multimodality appears as a solution to reduce congestion and air pollution in th
 
 _Presentations: ITEA Annual Conference (Leeds, 2024), M2S (Toulouse, 2023)._
 
-
-##  What is the role and impact of technical progress in the DICE model?
-with [Alexandre Gondran](http://alexandre.gondran.free.fr), [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti) and Antoine Ronsain. (Draft available upon request)
-
-<details>
-<summary>Abstract: </summary>
-According to Meadows et al. (1972), technical progress only delays the overstepping of planetary limits and the socioeconomic collapse. In contrast, the DICE model asserts that technical progress can prevent limits (global warming in that case) from being reached. Our study aims to gain a better understanding of the role of technical progress in the DICE model. We show first that technical progress is the main factor of economic growth by stimulating economic productivity. We also find that technical progress can stop climate change if it is stimulated by a carbon tax levied on production. However, if backstop technologies, a proxy for technical progress, are not sufficiently effective, economic output tends to decline or even collapse, and temperatures soar.  
-</details>
 
 
 ##  Coopetition: What is the optimal air-rail transportation mix?
@@ -104,21 +95,3 @@ _Presentations: 5th SOAR Symposia (Luxembourg, 2024)._
 
 ## [Stratégie française sur l’énergie et le climate.](https://archivephase1.concertation-strategie-energie-climat.gouv.fr/cahier-dacteur-ndeg36-unite-recherche-mixte-tree-transitions-energetiques-environnementales)
 with Xavier Arnauld-de-Sartre, Pauline Lacassy, Florence Lachet-Touya, Jacques Le-Cacheux and Jérémy Pélé, Cahier d’acteurs n°36 UMR TREE, 2022. 
-
-## [Hydrogène « vert » : fantasmes et réalités.](https://www.bsi-economics.org/1390-hydrogene-vert-fantasmes-et-realites-note)
-BSI Economics. 2022.
-
-## [Les projets européens d'interconnexions électriques.](https://www.bsi-economics.org/1293-les-projets-europeens-d%E2%80%99interconnexions-electriques-note) 
-BSI Economics. 2021.
-
-## [Prosommateurs : une conséquence directe du déploiement des réseaux intelligents dans le marché de l’électricité.](https://www.bsi-economics.org/1185-prosommateurs-une-consequence-directe-du-deploiement-des-reseaux-intelligents-dans-le-marche-de-l%E2%80%99electricite)
-BSI Economics. 2021.
-
-## [Défis des nouvelles technologies dans la décarbonisation du secteur des transports.](https://www.bsi-economics.org/1074-defi-nouvelles-tech-decarbonisation-secteur-transport)
-BSI Economics. 2020.
-
-## [Vers une alimentation “désin-carnée" : Enjeux environnementaux et de santé publique.](https://www.bsi-economics.org/1038-vers-alimentation-desincarnee-enjeux-environnementaux-sante-pubilque-sbmc) 
-with [Marine Coinon](https://sites.google.com/view/marine-coinon/home). BSI Economics. 2019.
-
-
-
