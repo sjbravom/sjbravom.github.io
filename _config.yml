@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sai Bravo-Melgarejo"
 title_separator          : "-"
 name                     : &name "Sai Bravo-Melgarejo"
-description              : &description "Postdoctoral Researcher"
+description              : &description "Economist/Researcher"
 url                      : https://sjbravom.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sjbravom/sjbravom.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Sai Bravo Melgarejo"
   avatar           : "IMG.jpg"
   bio              : "Hi and welcome to my website!"
-  location         : "Toulouse-France"
+  location         : "Paris-France"
   employer         : 
   pubmed           : 
   googlescholar    : 
