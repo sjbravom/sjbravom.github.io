@@ -3,6 +3,10 @@ title: "Teaching"
 permalink: /teachexp/
 ---
 
+### CentraleSupélec
+
+Perspectives of Modern Geopolitics, Teaching Assistant, Undergraduate (Bsc. Global Engineering)
+
 ### Toulouse School of Economics
 
 Air Transport Economics, Teacher, Graduate (M2 Economics of Markets and Organizations), Spring 2024, Spring 2025.
