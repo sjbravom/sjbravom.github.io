@@ -8,6 +8,18 @@ author_profile: true
 
 # Publications
 
+## [Prosumers: Grid vs. individual storage.](https://doi.org/10.1016/j.eneco.2024.108095)
+with [Carole Haritchabalet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). Energy Economics, vol. 141, n. 108095, January 2025.
+
+<details>
+<summary>Abstract: </summary>
+We present a stylized microeconomic model to analyze solar panels and storage investment decisions of a representative consumer under either grid (credit regulation) or individual (price regulation) storage. We identify the conditions under which prosumers become storers. We show that solar technology must be more competitive under credit than price regulation for consumers to invest in storage. We calibrate our model using French data from 2023 and 2030 and consider batteries and fuel-cells as potential individual storage technologies. France’s current price regulation incentivizes investment in solar capacity, but not in storage. Conversely, credit regulation would immediately encourage energy storage. Looking ahead to 2030, both regulatory frameworks would incentivize energy storage. The distribution system operator prefers credit regulation, provided the regulator allows full energy recovery. Overall, energy storage enhances welfare under both regulatory frameworks.
+</details>
+
+_Presentations: 49th EARIE Conference (Vienna,2022), 38èmes Journées de Microéconomie Appliquée (Rennes, 2022)._
+
+
+
 ## [Adopting and diffusing hydrogen technology in air transport: An evolutionary game theory approach.](https://www.sciencedirect.com/science/article/pii/S0140988323003626#d1e8012)
 with Shangrong Chen, [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti), and Romain Mongeau. Energy Economics, vol. 125, n. 106864, September 2023.
 
@@ -17,16 +29,6 @@ This paper uses an evolutionary game theory approach to assess the diffusion of 
 </details>
 
 _Presentations: 25th ATRS World Conference (Antwerp, 2022), 27th Annual EAERE Conference (Rimini, 2022), ITEA Annual Conference (Toulouse, 2022)._
-
-## [Prosumers: Grid vs. individual storage.](https://doi.org/10.1016/j.eneco.2024.108095)
-with [Carole Haritchabalet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). Energy Economics, January 2025.
-
-<details>
-<summary>Abstract: </summary>
-We present a stylized microeconomic model to analyze solar panels and storage investment decisions of a representative consumer under either grid (credit regulation) or individual (price regulation) storage. We identify the conditions under which prosumers become storers. We show that solar technology must be more competitive under credit than price regulation for consumers to invest in storage. We calibrate our model using French data from 2023 and 2030 and consider batteries and fuel-cells as potential individual storage technologies. France’s current price regulation incentivizes investment in solar capacity, but not in storage. Conversely, credit regulation would immediately encourage energy storage. Looking ahead to 2030, both regulatory frameworks would incentivize energy storage. The distribution system operator prefers credit regulation, provided the regulator allows full energy recovery. Overall, energy storage enhances welfare under both regulatory frameworks.
-</details>
-
-_Presentations: 49th EARIE Conference (Vienna,2022), 38èmes Journées de Microéconomie Appliquée (Rennes, 2022)._
 
 ---
 
