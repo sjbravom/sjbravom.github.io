@@ -27,8 +27,8 @@ Greening the Public Fleet: Evidence from California’s Clean Vehicle Rebate Pro
 What is the role of psychological factors in urban modal choice? Evidence from Toulouse Metropolis. with Imane Hoummirat and [Isabelle Laplace](https://cv.hal.science/isabelle-laplace). 
 
 Balancing Air & Rail: Optimal Transportation Mix & the Role of Coopetition in Successive Markets. with Shangrong Chen and [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti).
-;
-The Economics of Renewables Expansion: Price and Profit Impacts in France
+
+The Economics of Renewables Expansion: Price and Profit Impacts in France.
 
 # Policy Work
 
