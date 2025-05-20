@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Since September 2024, I have been a researcher in economics at [I-Tésé CEA Paris Saclay](https://www.cea.fr/energies/i-tese/Pages/accueil.aspx), part of [Paris Saclay University](https://www.pluginlabs-universiteparissaclay.fr/en/fiche/institute-for-techno-economics-of-energy-systems-i-tese/). I am also an associated researcher at the [TRAVEL Chair](https://chairetravel.enac.fr/)).
+Since September 2024, I have been a researcher in economics at [CEA I-Tésé](https://www.cea.fr/energies/i-tese/Pages/accueil.aspx) and [Paris Saclay University](https://www.pluginlabs-universiteparissaclay.fr/en/fiche/institute-for-techno-economics-of-energy-systems-i-tese/). I am also an associated researcher at the [TRAVEL Chair](https://chairetravel.enac.fr/)).
 
 Before I was a postdoctoral fellow at [ENAC](https://www.enac.fr/en) between November 2021 and August 2024. 
 
-I obtained a Ph.D. in Economics from the [University of Pau](https://tree.univ-pau.fr/fr/index.html) in association with the [Chair of the Economics of Gas](https://www.cerna.minesparis.psl.eu/Recherche/Chaire-Economie-europeenne-du-gaz-naturel/Presentation-and-publications/) in 2021. I also hold a Master's degree in [Economics of Markets and Organizations](https://www.tse-fr.eu/master-emo-international-track) and a Bachelor's degree in [Economics](https://www.tse-fr.eu/bachelor-economics?lang=en) from the [Toulouse School of Economics](https://www.tse-fr.eu). 
+I obtained a Ph.D. in Economics from the [University of Pau](https://tree.univ-pau.fr/fr/index.html) in association with the [Chair of the Economics of Gas](https://www.cerna.minesparis.psl.eu/Recherche/Chaire-Economie-europeenne-du-gaz-naturel/Presentation-and-publications/) in 2021. 
+
+I also hold a Master's degree in [Economics of Markets and Organizations](https://www.tse-fr.eu/master-emo-international-track) and a Bachelor's degree in [Economics](https://www.tse-fr.eu/bachelor-economics?lang=en) from the [Toulouse School of Economics](https://www.tse-fr.eu). 
 
 My research fields are Industrial Organization, Transportation, Energy, and Environmental Economics.
 
