@@ -30,6 +30,9 @@ Balancing Air & Rail: Optimal Transportation Mix & the Role of Coopetition in Su
 
 The Economics of Renewables Expansion: Price and Profit Impacts in France.
 
+Understanding Traveler Behavior with Discrete Choice Experiments. with Imane Hoummirat and [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti).
+
+
 # Policy Work
 
 [Stratégie française sur l’énergie et le climate.](https://archivephase1.concertation-strategie-energie-climat.gouv.fr/cahier-dacteur-ndeg36-unite-recherche-mixte-tree-transitions-energetiques-environnementales)
