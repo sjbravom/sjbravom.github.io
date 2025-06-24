@@ -17,5 +17,7 @@ I also hold a Master's degree in [Economics of Markets and Organizations](https:
 
 My research fields are Industrial Organization, Transportation, Energy, and Environmental Economics.
 
+[CV](https://github.com/sjbravom/sjbravom.github.io/blob/cf79a742669181aaff1f956a296b4d310edbdd8f/CV__academic_.pdf))
+
 You can reach me at [sai.bravomelgarejo@cea.fr](sai.bravomelgarejo@cea.fr)
    <!--more--> 
