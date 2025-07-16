@@ -15,7 +15,7 @@ author_profile: true
 
 # Working Papers
 
-A model of vertical restraints and labeling: the case of green hydrogen. with [Carole Haritchabalet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). [Best Student Paper in Energy Economics](https://www.faee.fr/fr/51-prix-de-l-aee.html#/awards/2020), French Association for Energy Economics, 2020. -Previously circulated as: "Certification of low-carbon hydrogen in the transport market". (Submitted)
+A model of vertical restraints and labeling: the case of green hydrogen. with [Carole Haritchabalet](https://www.tse-fr.eu/fr/people/carole-haritchabalet). [Best Student Paper in Energy Economics](https://www.faee.fr/fr/51-prix-de-l-aee.html#/awards/2020), French Association for Energy Economics, 2020. -Previously circulated as: "Certification of low-carbon hydrogen in the transport market". 
 
 [Do airlines adopt sustainable aviation fuels under modal competition?](https://chairetravel.enac.fr/wp-content/uploads/2025/02/Sai-Bravo.pdf) with [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti), September 2024. (Revise & Resubmit Review of Industrial Organization) 
       
@@ -24,7 +24,7 @@ A model of vertical restraints and labeling: the case of green hydrogen. with [C
 
 Greening the Public Fleet: Evidence from California’s Clean Vehicle Rebate Program. 
 
-What is the role of psychological factors in urban modal choice? Evidence from Toulouse Metropolis. with Imane Hoummirat and [Isabelle Laplace](https://cv.hal.science/isabelle-laplace). 
+What is the role of psychological factors in urban modal choice? Evidence from Toulouse Metropolis. with Imane Hoummirat and [Isabelle Laplace](https://cv.hal.science/isabelle-laplace). (Draft available upon request)
 
 Balancing Air & Rail: Optimal Transportation Mix & the Role of Coopetition in Successive Markets. with Shangrong Chen and [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti).
 
