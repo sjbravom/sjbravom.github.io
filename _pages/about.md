@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Energy Economist at [CEA I-Tésé](https://www.cea.fr/energies/i-tese/Pages/accueil.aspx) and [Paris Saclay University](https://www.pluginlabs-universiteparissaclay.fr/en/fiche/institute-for-techno-economics-of-energy-systems-i-tese/). I am also an associated researcher at the [TRAVEL Chair](https://chairetravel.enac.fr/).
+Hi, I am an economist at [CEA I-Tésé](https://www.cea.fr/energies/i-tese/Pages/accueil.aspx) and [Paris Saclay University](https://www.pluginlabs-universiteparissaclay.fr/en/fiche/institute-for-techno-economics-of-energy-systems-i-tese/). I am also an associated researcher at the [TRAVEL Chair](https://chairetravel.enac.fr/).
 
 
 I obtained a Ph.D. in Economics from the [University of Pau](https://tree.univ-pau.fr/fr/index.html) in association with the [Chair of the Economics of Gas](https://www.cerna.minesparis.psl.eu/Recherche/Chaire-Economie-europeenne-du-gaz-naturel/Presentation-and-publications/) in 2021. 
