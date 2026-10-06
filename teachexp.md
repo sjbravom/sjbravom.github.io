@@ -5,17 +5,21 @@ permalink: /teachexp/
 
 ### CentraleSupélec
 
-Perspectives of Modern Geopolitics, Teaching Assistant, Undergraduate (Bsc. Global Engineering)
+Industrial Organization, Teaching Assistant, Undergraduate (Bsc. Global Engineering), Fall 2025, Fall 2026.
+
+Microeconomics, Teaching Assistant, Undergraduate (Bsc. Global Engineering), Fall 2025, Fall 2026.
+
+Perspectives of Modern Geopolitics, Teaching Assistant, Undergraduate (Bsc. Global Engineering), Spring 2024, Spring 2025.
 
 ### Toulouse School of Economics
 
-Air Transport Economics, Teacher, Graduate (M2 Economics of Markets and Organizations), Spring 2024, Spring 2025.
+Air Transport Economics, Teacher, Graduate (M2 Economics of Markets and Organizations), Spring 2024, Spring 2025, Spring 2026.
 
 Macroeconomics, Teaching Assistant, Undergraduate (L2), Fall 2017.
 
 ### ENAC
 
-Industrial Organization, Teacher, Graduate, Fall 2022, Fall 2023, Fall 2024.
+Industrial Organization, Teacher, Graduate, Fall 2022, Fall 2023, Fall 2024, Fall 2025.
 
 Market Game, Teacher, Fall 2022, Fall 2023.
 
