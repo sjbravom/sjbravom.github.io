@@ -2,7 +2,6 @@
 title: "Teaching"
 permalink: /teachexp/
 ---
-
 ### CentraleSupélec
 
 Industrial Organization, Teaching Assistant, Undergraduate (Bsc. Global Engineering), Fall 2025, Fall 2026.
