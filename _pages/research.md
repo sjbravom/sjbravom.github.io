@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 ---
-
 # Publications
 
 [Do airlines adopt sustainable aviation fuels under modal competition?](https://chairetravel.enac.fr/wp-content/uploads/2025/02/Sai-Bravo.pdf) with [Estelle Malavolti](https://www.tse-fr.eu/people/estelle-malavolti), forthcoming in Review of Industrial Organization 
