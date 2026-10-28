@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Hi, I am an economist at [CEA I-Tésé](https://www.cea.fr/energies/i-tese/Pages/accueil.aspx) and [Paris Saclay University](https://www.pluginlabs-universiteparissaclay.fr/en/fiche/institute-for-techno-economics-of-energy-systems-i-tese/). I am also an associated researcher at the [TRAVEL Chair](https://chairetravel.enac.fr/).
 
 
